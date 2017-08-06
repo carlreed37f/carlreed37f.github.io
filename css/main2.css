@@ -4,6 +4,7 @@ TYPOGRAPHY
 =================
 */
 body {
+  overflow-x: hidden;
   position: relative;
   color: #0DB2AF;
   background-color: #BFBFBF;
@@ -157,8 +158,7 @@ SECTIONS
 
 #carousel img {
   width: 100%;
-  height: auto;
-  max-height: 600px;
+  height: 600px;
 }
 
 .intro {
